@@ -1,0 +1,24 @@
+# cross fade
+
+pydub
+ffmpeg-python
+
+# beat matching
+librosa
+numpy
+scipy
+
+# frontend
+streamlit
+
+# software
+fastapi
+unicorn [standard]
+python-multipart
+Pillow
+requests
+aiofiles
+
+# experiments notebook
+
+ipykernel
